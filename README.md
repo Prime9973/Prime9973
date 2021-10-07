@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrimeNumber9973
+- 👋 Hi, I’m @Prime9973
 - 👀 I’m interested in bitcoin and cryptography
 - 🌱 I’m currently learning bitcoin script. 
 - 💞️ I’m looking to collaborate on all things bitcoin.
